@@ -1,2 +1,4 @@
 .ragvenv
 notes.txt
+migrations
+__pycache__
